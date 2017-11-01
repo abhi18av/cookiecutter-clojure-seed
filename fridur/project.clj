@@ -7,6 +7,7 @@
   :dependencies [[org.clojure/clojure "1.9.0-beta4"]
   ;; https://github.com/dgrnbrg/spyscope
   ;; [metosin/spec-tools "0.5.1"]
+  ;; [spectrum "0.1.4"]
 				[im.chit/hara "2.5.10"]
 				[im.chit/lucid "1.3.13"]
 				[com.rpl/specter "1.0.4"]
