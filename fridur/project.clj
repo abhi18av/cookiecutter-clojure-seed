@@ -4,8 +4,9 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
-  :dependencies [[org.clojure/clojure "1.9.0-beta3"]
+  :dependencies [[org.clojure/clojure "1.9.0-beta4"]
   ;; https://github.com/dgrnbrg/spyscope
+  ;; [metosin/spec-tools "0.5.1"]
 				[im.chit/hara "2.5.10"]
 				[im.chit/lucid "1.3.13"]
 				[com.rpl/specter "1.0.4"]
