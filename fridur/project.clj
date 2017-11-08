@@ -12,6 +12,8 @@
 				[im.chit/lucid "1.3.13"]
 				[com.rpl/specter "1.0.4"]
 				[prismatic/plumbing "0.5.4"] 
+		 		[codax "1.1.0-SNAPSHOT"]
+		 		[datawalk "0.1.10"]
          ]
   :main ^:skip-aot fridur.core
   :target-path "target/%s"
